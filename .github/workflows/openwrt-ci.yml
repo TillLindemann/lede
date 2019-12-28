@@ -6,7 +6,7 @@
 # 
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
-
+# Nano pi neo2
 name: OpenWrt-CI
 
 on:
